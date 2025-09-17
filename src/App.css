@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  min-height: 100vh;
+  background: linear-gradient(to right, #2980b9, #6dd5fa);
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.error {
+  color: #ffdddd;
+  margin: 10px 0;
+}
